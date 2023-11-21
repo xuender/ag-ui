@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93334 270.93333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title18">logo</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.68595679"
+     inkscape:cx="679.34308"
+     inkscape:cy="523.35658"
+     inkscape:window-width="1850"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5475" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="304.36502"
+       y="411.23559"
+       width="488.107"
+       height="334.77418"
+       id="rect11964" />
+    <rect
+       x="245.92133"
+       y="406.83936"
+       width="650.2152"
+       height="472.11087"
+       id="rect8071" />
+    <linearGradient
+       id="linearGradient8012"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#80e5ff;stop-opacity:1;"
+         offset="0"
+         id="stop8010" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7990"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#80e5ff;stop-opacity:1;"
+         offset="0"
+         id="stop7988" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3166"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3164" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.328083;stroke-dasharray:none"
+       id="rect122"
+       width="212.72501"
+       height="212.72501"
+       x="29.104166"
+       y="29.104166"
+       rx="20"
+       ry="20"
+       inkscape:label="rect122" />
+  </g>
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ender</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2023-11-20</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>ender</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="star"
+     transform="translate(-25.602186,-22.483807)"
+     style="display:inline">
+    <circle
+       style="fill:#3880ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.328083;stroke-dasharray:none"
+       id="path11860"
+       cx="161.06886"
+       cy="157.95049"
+       r="95.25" />
+    <ellipse
+       style="fill:#3880ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.328083;stroke-dasharray:none"
+       id="path11866"
+       cx="164.97217"
+       cy="148.17551"
+       rx="5.0090122"
+       ry="7.3285713" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;fill-rule:evenodd;stroke-width:0.264583"
+       id="path11932"
+       inkscape:flatsided="false"
+       sodipodi:sides="6"
+       sodipodi:cx="381.70908"
+       sodipodi:cy="345.75906"
+       sodipodi:r1="167.79234"
+       sodipodi:r2="279.6539"
+       sodipodi:arg1="0.72348682"
+       sodipodi:arg2="1.2470856"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 507.46977,456.83794 470.66327,610.88819 348.39229,510.21046 196.57761,555.36022 222.6316,399.13158 107.62342,290.23109 255.94838,234.68019 292.75488,80.629936 415.02586,181.30767 566.84054,136.1579 540.78656,292.38654 655.79473,401.28703 Z"
+       transform="matrix(0.38806299,0,0,0.40117244,12.941688,19.241466)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="gh">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24794479,0,0,0.39274041,16.213819,-92.546583)"
+       id="text11962"
+       style="font-weight:bold;font-size:266.667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';letter-spacing:-30px;white-space:pre;shape-inside:url(#rect11964)"><tspan
+         x="304.36523"
+         y="679.23666"
+         id="tspan11993"><tspan
+           style="fill:#0000ff"
+           id="tspan11991">GH</tspan></tspan></text>
+  </g>
+</svg>

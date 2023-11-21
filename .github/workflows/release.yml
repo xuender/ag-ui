@@ -11,15 +11,15 @@ jobs:
           - runs-on: ubuntu-latest
             binary-name: grephub_linux_amd64_${{ github.ref_name }}
             binary-path: ./build/bin/
-            format: ".deb"
+            format: .deb
           - runs-on: windows-latest
             binary-name: grephub_windows_amd64_${{ github.ref_name }}
             binary-path: ./build/bin/
-            format: ".exe"
+            format: .exe
           - runs-on: macos-latest
             binary-name: grephub_darwin_amd64_${{ github.ref_name }}
             binary-path: ./build/bin/
-            format: ".app"
+            format: .app
     runs-on: ${{ matrix.runs-on }}
     steps:
       - name: Checkout
