@@ -30,6 +30,11 @@ build-linux: clean
 	"-X 'github.com/xuender/kit/oss.Version=${VERSION}' \
   -X 'github.com/xuender/kit/oss.BuildTime=${BUILD_TIME}'"
 
+build-windows: clean
+	CGO_ENABLED=0 wails build -platform windows/amd64 -ldflags \
+	"-X 'github.com/xuender/kit/oss.Version=${VERSION}' \
+  -X 'github.com/xuender/kit/oss.BuildTime=${BUILD_TIME}'"
+
 build-deb: build-linux
 	mkdir -p ${DEB}/DEBIAN
 	mkdir -p ${DEB}/usr/local/bin
